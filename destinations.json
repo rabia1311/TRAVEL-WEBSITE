@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Bali, Indonesia",
+    "description": "Tropical paradise with beautiful beaches and rich culture",
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "price": 1299,
+    "rating": 4.8,
+    "category": "beach",
+    "featured": true,
+    "location": {
+      "coordinates": [115.188919, -8.409518],
+      "address": "Bali",
+      "country": "Indonesia"
+    },
+    "activities": ["Surfing", "Temple Visits", "Rice Terrace Trekking", "Spa Treatments"],
+    "duration": 7,
+    "difficulty": "easy"
+  },
+  {
+    "name": "Santorini, Greece",
+    "description": "Stunning white buildings and breathtaking ocean views",
+    "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "price": 1599,
+    "rating": 4.9,
+    "category": "beach",
+    "featured": true,
+    "location": {
+      "coordinates": [25.396, 36.3932],
+      "address": "Santorini",
+      "country": "Greece"
+    },
+    "activities": ["Wine Tasting", "Sailing", "Volcano Hiking", "Beach Relaxation"],
+    "duration": 5,
+    "difficulty": "easy"
+  },
+  {
+    "name": "Swiss Alps",
+    "description": "Majestic mountains and world-class skiing opportunities",
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "price": 1899,
+    "rating": 4.7,
+    "category": "mountain",
+    "featured": true,
+    "location": {
+      "coordinates": [8.2275, 46.8182],
+      "address": "Swiss Alps",
+      "country": "Switzerland"
+    },
+    "activities": ["Skiing", "Snowboarding", "Mountain Hiking", "Paragliding"],
+    "duration": 6,
+    "difficulty": "medium"
+  },
+  {
+    "name": "Kyoto, Japan",
+    "description": "Ancient temples and beautiful cherry blossoms",
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "price": 1499,
+    "rating": 4.6,
+    "category": "cultural",
+    "featured": true,
+    "location": {
+      "coordinates": [135.7681, 35.0116],
+      "address": "Kyoto",
+      "country": "Japan"
+    },
+    "activities": ["Temple Visits", "Tea Ceremonies", "Geisha District Tours", "Bamboo Forest Walks"],
+    "duration": 8,
+    "difficulty": "easy"
+  },
+  {
+    "name": "Paris, France",
+    "description": "City of love with iconic landmarks and cuisine",
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "price": 1399,
+    "rating": 4.5,
+    "category": "city",
+    "featured": true,
+    "location": {
+      "coordinates": [2.3522, 48.8566],
+      "address": "Paris",
+      "country": "France"
+    },
+    "activities": ["Eiffel Tower Visit", "Louvre Museum", "Seine River Cruise", "Culinary Tours"],
+    "duration": 4,
+    "difficulty": "easy"
+  },
+  {
+    "name": "Machu Picchu, Peru",
+    "description": "Ancient Incan citadel set among breathtaking mountains",
+    "image": "https://images.unsplash.com/photo-1526392060635-9d6019884377?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "price": 1799,
+    "rating": 4.9,
+    "category": "historical",
+    "featured": true,
+    "location": {
+      "coordinates": [-72.5450, -13.1631],
+      "address": "Machu Picchu",
+      "country": "Peru"
+    },
+    "activities": ["Inca Trail Hiking", "Archaeological Tours", "Mountain Climbing", "Cultural Experiences"],
+    "duration": 9,
+    "difficulty": "difficult"
+  },
+  {
+    "name": "Maldives",
+    "description": "Pristine white sand beaches and crystal clear waters",
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "price": 2199,
+    "rating": 4.8,
+    "category": "beach",
+    "featured": false,
+    "location": {
+      "coordinates": [73.2207, 3.2028],
+      "address": "Maldives",
+      "country": "Maldives"
+    },
+    "activities": ["Snorkeling", "Scuba Diving", "Overwater Bungalow Stay", "Sunset Cruises"],
+    "duration": 7,
+    "difficulty": "easy"
+  },
+  {
+    "name": "New York City, USA",
+    "description": "The city that never sleeps with iconic skyscrapers and vibrant culture",
+    "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "price": 1599,
+    "rating": 4.6,
+    "category": "city",
+    "featured": false,
+    "location": {
+      "coordinates": [-74.0060, 40.7128],
+      "address": "New York City",
+      "country": "USA"
+    },
+    "activities": ["Times Square Visit", "Central Park Stroll", "Broadway Show", "Museum Tours"],
+    "duration": 5,
+    "difficulty": "easy"
+  },
+  {
+    "name": "Cairo, Egypt",
+    "description": "Ancient pyramids and rich historical heritage",
+    "image": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "price": 1299,
+    "rating": 4.5,
+    "category": "historical",
+    "featured": false,
+    "location": {
+      "coordinates": [31.2357, 30.0444],
+      "address": "Cairo",
+      "country": "Egypt"
+    },
+    "activities": ["Pyramid Tours", "Nile River Cruise", "Egyptian Museum Visit", "Bazaar Shopping"],
+    "duration": 6,
+    "difficulty": "medium"
+  },
+  {
+    "name": "Banff National Park, Canada",
+    "description": "Stunning mountain landscapes and pristine lakes",
+    "image": "https://images.unsplash.com/photo-1513889961551-628c1e5e2ee9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "price": 1699,
+    "rating": 4.8,
+    "category": "mountain",
+    "featured": false,
+    "location": {
+      "coordinates": [-115.5287, 51.1784],
+      "address": "Banff National Park",
+      "country": "Canada"
+    },
+    "activities": ["Hiking", "Wildlife Watching", "Lake Louise Visit", "Hot Springs"],
+    "duration": 7,
+    "difficulty": "medium"
+  },
+  {
+    "name": "Marrakech, Morocco",
+    "description": "Vibrant markets and rich cultural experiences",
+    "image": "https://images.unsplash.com/photo-1597212720158-c40832789bbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "price": 1199,
+    "rating": 4.5,
+    "category": "cultural",
+    "featured": false,
+    "location": {
+      "coordinates": [-7.9811, 31.6295],
+      "address": "Marrakech",
+      "country": "Morocco"
+    },
+    "activities": ["Medina Exploration", "Souk Shopping", "Moroccan Cooking Classes", "Desert Excursions"],
+    "duration": 5,
+    "difficulty": "medium"
+  },
+  {
+    "name": "Rome, Italy",
+    "description": "Ancient ruins and world-class Italian cuisine",
+    "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "price": 1499,
+    "rating": 4.7,
+    "category": "historical",
+    "featured": false,
+    "location": {
+      "coordinates": [12.4964, 41.9028],
+      "address": "Rome",
+      "country": "Italy"
+    },
+    "activities": ["Colosseum Tour", "Vatican Visit", "Roman Forum Exploration", "Food Tours"],
+    "duration": 6,
+    "difficulty": "easy"
+  }
+]

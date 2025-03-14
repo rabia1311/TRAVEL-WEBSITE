@@ -1,0 +1,44 @@
+[
+  {
+    "review": "Amazing experience! The beaches were pristine and the local culture was fascinating.",
+    "rating": 5,
+    "user": "5f8e4b2c1c9d440000a1b2c3",
+    "destination": "5f8e4b2c1c9d440000a1b2c4"
+  },
+  {
+    "review": "Breathtaking views and excellent service. Would definitely recommend!",
+    "rating": 5,
+    "user": "5f8e4b2c1c9d440000a1b2c5",
+    "destination": "5f8e4b2c1c9d440000a1b2c4"
+  },
+  {
+    "review": "Good trip overall, but the weather wasn't ideal during our stay.",
+    "rating": 4,
+    "user": "5f8e4b2c1c9d440000a1b2c6",
+    "destination": "5f8e4b2c1c9d440000a1b2c4"
+  },
+  {
+    "review": "The cultural experience was incredible. Loved every moment of it!",
+    "rating": 5,
+    "user": "5f8e4b2c1c9d440000a1b2c3",
+    "destination": "5f8e4b2c1c9d440000a1b2c7"
+  },
+  {
+    "review": "The mountain views were spectacular. Hiking trails were well-maintained.",
+    "rating": 4,
+    "user": "5f8e4b2c1c9d440000a1b2c5",
+    "destination": "5f8e4b2c1c9d440000a1b2c8"
+  },
+  {
+    "review": "The city was vibrant and full of history. Great food too!",
+    "rating": 5,
+    "user": "5f8e4b2c1c9d440000a1b2c6",
+    "destination": "5f8e4b2c1c9d440000a1b2c9"
+  },
+  {
+    "review": "Historical sites were amazing, but it was very crowded.",
+    "rating": 4,
+    "user": "5f8e4b2c1c9d440000a1b2c3",
+    "destination": "5f8e4b2c1c9d440000a1b2ca"
+  }
+]
